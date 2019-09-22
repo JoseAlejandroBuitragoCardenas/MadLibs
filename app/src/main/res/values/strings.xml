@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string-array name="story_choices">
+        <item>" Yo quisiera ser un %2$s cuando sea grande. Quiero se como mi papa, %3$s es su nombre, el es %1$s, ¡La vida es %4$s así!"</item>
+    </string-array>
+</resources>
+
+
